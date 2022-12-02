@@ -1,0 +1,13 @@
+h1{
+    font-size: 30;
+    color: white;
+    border: 2px solid white;
+}
+li{
+    color: greenyellow;
+}
+body{
+    background-image: url('https://www.spacex.com/static/images/falcon-heavy/FH_1.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
