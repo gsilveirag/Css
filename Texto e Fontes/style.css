@@ -1,0 +1,12 @@
+p{
+    font-family: 'Roboto';
+    font-size: larger;
+    font-weight: bold;
+    line-height: 1;
+}
+
+h1{
+    font-family: 'Geostar', cursive;
+    text-align: center;
+    text-decoration: underline;
+}
